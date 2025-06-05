@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm gyxzx</h1>
-<h3 align="center">A love ACGN dead house</h3>
+## Hi 👋, I'm gyxzx
+
+<p align="left">A love ACGN dead house</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyxzx&label=Profile%20views&color=0e75b6&style=flat" alt="gyxzx" /> </p>
 
